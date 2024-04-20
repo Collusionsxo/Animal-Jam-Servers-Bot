@@ -1,0 +1,44 @@
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\AJ Servers Bot.exe.config
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\AJ Servers Bot.exe
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\AJ Servers Bot.pdb
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\ConcurrentCollections.dll
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\DSharpPlus.CommandsNext.dll
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\DSharpPlus.dll
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\DSharpPlus.Interactivity.dll
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\DSharpPlus.SlashCommands.dll
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\Leaf.xNet.dll
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\Newtonsoft.Json.dll
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\System.Buffers.dll
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\System.Collections.Immutable.dll
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\System.Memory.dll
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\System.Numerics.Vectors.dll
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\System.Threading.Channels.dll
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\ConcurrentCollections.xml
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\DSharpPlus.xml
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\DSharpPlus.CommandsNext.xml
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\DSharpPlus.Interactivity.xml
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\DSharpPlus.SlashCommands.xml
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\Leaf.xNet.xml
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\Newtonsoft.Json.xml
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\System.Buffers.xml
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\System.Collections.Immutable.xml
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\System.Memory.xml
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\System.Numerics.Vectors.xml
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\System.Threading.Channels.xml
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\obj\Debug\AJ Servers Bot.csproj.AssemblyReference.cache
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\obj\Debug\AJ Servers Bot.csproj.CoreCompileInputs.cache
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\obj\Debug\AJ Serve.7CD5EB03.Up2Date
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\obj\Debug\AJ Servers Bot.exe
+D:\Programs\SchmoeGrams\Schmoe AJ\AJ Servers Bot\AJ Servers Bot\obj\Debug\AJ Servers Bot.pdb
